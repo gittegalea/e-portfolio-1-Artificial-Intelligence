@@ -38,16 +38,20 @@ The article by Chinta et al. (2025) investigates how AI can enhancing efficiency
 ### Justification on why I chose the artefact
 I chose this article because I am interested in and concerned about how AI is used in healthcare. I found this article on Google Scholar by searching "AI in healthcare" and choosing the article from 2025, as it was more recent. I read the abstract and the conclusion and  I found these two sections to be informative. However, I did not understand what was meant by bias, I needed examples so I went looking further in the article. I was shocked to learn 'AI tools for diagnosing depression have faced challenges when applied across different linguistic and cultural backgrounds because they were primarily trained on English-speaking, Western populations, leading to potential misdiagnoses in non-Western patients' (Chinta et al. 2025, p 2). This has significant consequences for people from different cultures. I noticed that the article was written by academics in the United States, so this has a US focus. But living in Australia it would concern me if these AI algortims were being used here.
 
-## Artefact 4: Key Takeway from my class workshop this week
-What I learnt this week was that AI has been around for a long long time, I did not know that! But it was not the generative AI we all use today.
+## Artefact 4: Workshop Personal Reflection
 
-We had some great discussions in the workshop
+Insert: Workshop Week, Day, Date, Tutor, Campus
 
-### Summary of the artefact
-Here I am in the workshop
+Insert: selfie photo with something in the background that confirms attendance for that weeks workshop, ie your tutor or lecture slides
+
+### Summary of the artefact: My Personal Reflection
+
+What I learnt this week was that AI has been around for a long long time, I did not know that! But it was not the generative AI we all use today. I like the images created in AI
+
+We had some great discussions in the workshop about AI, I learnt from another class member was that other students are using paid versions of ChatGPT and I am not.
 
 ### Justification on why I chose the artefact
-I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning so I was glad the narrator described it as theoretical and "wild".
+I took a photo at this point in the tutorial because I found the video and discussion on Watson interesting. What I found interesting was that IBM Watson appeared on the US game show Jeopardy in 2011, which was 15 years ago, things have certainly changed since ChatGPT was released in November 2022. ChapGPT has access to an enor
 
 ## References in CQU Harvard Style
 
