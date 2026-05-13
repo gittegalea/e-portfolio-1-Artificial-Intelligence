@@ -46,12 +46,10 @@ Insert: selfie photo with something in the background that confirms attendance f
 
 ### Summary of the artefact: My Personal Reflection
 
-What I learnt this week was that AI has been around for a long long time, I did not know that! But it was not the generative AI we all use today. I like the images created in AI
-
-We had some great discussions in the workshop about AI, I learnt from another class member was that other students are using paid versions of ChatGPT and I am not.
+What I learnt this week was that AI has been around for a long long time, I did not know that! But it was not the generative AI we all use today. I like the images created in AI in this lecture, some of them were old and had mistakes. We had some great discussions in the workshop about AI, I learnt from another class member was that other students are using paid versions of ChatGPT and I am not.
 
 ### Justification on why I chose the artefact
-I took a photo at this point in the tutorial because I found the video and discussion on Watson interesting. What I found interesting was that IBM Watson appeared on the US game show Jeopardy in 2011, which was 15 years ago, things have certainly changed since ChatGPT was released in November 2022. ChapGPT has access to an enor
+I took a photo at this point in the tutorial because I found the video and discussion on Watson interesting. What I found interesting was that IBM Watson appeared on the US game show Jeopardy in 2011, which was 15 years ago, things have certainly changed since ChatGPT was released in November 2022. ChapGPT has access to an enormous amount of data. We compared IBM's Watson and ChatGPT and considered if Watson and ChatGPT went on Jeopardy today, who would win? I thought it would be ChatGPT but using Copilot AI tool we broke the comparison between Watson and ChatGPT. We considered what datasets each model had been trained on and what I thought was interesting was that IBM Watson was specifically built for Jeopardy so according to ChatGPT IBM Watson would win. While ChatGPT has acces to more data and in terms of knowledge should win. We asked Copilot to simulate Watson vs ChatGPT but I think we broke Copilot because it wasn't producing the correct format to answer Jeopardy questions. The key takeaway for me was that Watson was purpose built and it was successful. ChatGPT is generalist and not built for one specific purpose, industry, problem etc. Watson was strong in answering in a well-defined domain. In comparison, ChatGPT focuses on human-like communication. Watson is not conversational and ChatGPT does not verify answers and it can hallucinate.
 
 ## References in CQU Harvard Style
 
