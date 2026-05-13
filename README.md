@@ -10,11 +10,11 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 ### Summary of the artefact
-This short YouTube video explains Articial Intelligence in simple terms. It introduces 3 types of AI: Artifical Narrow Intelligence (ANI), Artifical General Intelligence (AGI and Artifical Super Intelligence (ASI). The video also discusses the pros and cons of AI in society.
+This short YouTube video by Learn Bright explains Articial Intelligence in simple terms. It introduces 3 types of AI: Artifical Narrow Intelligence (ANI), Artifical General Intelligence (AGI and Artifical Super Intelligence (ASI). The video also discusses the pros and cons of AI in society.
 In my own words, artifical intelligence is computer technology that can appear human like. From the video, I will to my definition that AI involves computer systems, large amounts of data and problem solving.
 
 ### Justification on why I chose the artefact
-I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning so I was glad the narrator described it as theoretical and "wild".
+I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning so I was glad the narrator described it as theoretical and "wild". While the YouTube video seemed to be aimed a children I think that simple videos are easier to learn new concepts. I am only in my first year and I have a lot to learn!
 
 ## Artefact 2: A News article I found this week
 
@@ -41,16 +41,10 @@ I chose this article because I am interested in and concerned about how AI is us
 ## Artefact 4: Key Takeway from my class workshop this week
 What I learnt this week was that AI has been around for a long long time, I did not know that! But it was not the generative AI we all use today.
 
-The most interesting thing I learnt this week was that in 2011 IBM's Watson appeared on the American TV show Jeopardy
-
-<img width="1419" height="849" alt="image" src="https://github.com/user-attachments/assets/61c2d40c-2cb5-48f8-a640-0c6690b3e6cd" />
-
-
-https://www.youtube.com/watch?v=WFR3lOm_xhE
+We had some great discussions in the workshop
 
 ### Summary of the artefact
-This short YouTube video explains Articial Intelligence in simple terms. It introduces 3 types of AI: Artifical Narrow Intelligence (ANI), Artifical General Intelligence (AGI and Artifical Super Intelligence (ASI). The video also discusses the pros and cons of AI in society.
-In my own words, artifical intelligence is computer technology that can appear human like. From the video, I will to my definition that AI involves computer systems, large amounts of data and problem solving.
+Here I am in the workshop
 
 ### Justification on why I chose the artefact
 I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning so I was glad the narrator described it as theoretical and "wild".
@@ -61,3 +55,5 @@ Brown, M 2026, 'The 'groundbreaking' AI tool helping Victorian rangers protect n
 
 Chinta, SV, Wang, Z, Palikhe, A, Zhang, X, Kashif, A, Smith, MA, Liu, J and Zhang, W 2025, 'AI-driven healthcare: A review on ensuring fairness and mitigating bias', *PLOS Digital Health*, Vol. 4, no. 5. DOI: https://doi.org/10.1371/journal.pdig.0000864
 
+Learn Bright, *What Is AI? | Learn all about artificial intelligence*, video, 6 December 2024, viewed 13 May 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
+ 
