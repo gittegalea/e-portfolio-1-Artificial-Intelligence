@@ -32,6 +32,8 @@ I chose this article because it was about the positive use of AI. I find all the
 
 <img width="509" height="581" alt="image" src="https://github.com/user-attachments/assets/bb1c1292-40e6-4a93-ae3d-19d4527ea1c7" />
 
+https://doi.org/10.1371/journal.pdig.0000864
+
 ### Summary of the aretfact
 The article by Chinta et al. (2025) investigates how AI can enhancing efficiency and effectiveness in healthcare in such areas as cardiology, dermatology and emergency medicine. The AI tools improve diagnosing patients with better accuracy, personalising treatments and predicting patient outcomes based on probabilities from machine learning. The article also discusses concerns over ethical and fairness challenges related to biases in the data and algorithms. For example, 'an algorithm used in US hospitals was biased against black patients in resource allocation' (Chinta et al. 2025, p 2)
 
