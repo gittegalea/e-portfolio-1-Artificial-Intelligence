@@ -44,7 +44,7 @@ I chose this article because I am interested in and concerned about how AI is us
 
 Insert: Workshop Week, Day, Date, Tutor, Campus
 
-Insert: selfie photo with something in the background that confirms attendance for that weeks workshop, ie your tutor or lecture slides
+Insert: selfie photo with something in the background that confirms attendance for that weeks workshop, ie your tutor or lecture slides.
 
 ### Summary of the artefact: My Personal Reflection
 
