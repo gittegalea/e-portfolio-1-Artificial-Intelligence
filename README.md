@@ -14,7 +14,7 @@ This short YouTube video by Learn Bright explains Articial Intelligence in simpl
 In my own words, artifical intelligence is computer technology that can appear human like. From the video, I will to my definition that AI involves computer systems, large amounts of data and problem solving.
 
 ### Justification on why I chose the artefact
-I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning so I was glad the narrator described it as theoretical and "wild". While the YouTube video seemed to be aimed a children I think that simple videos are easier to learn new concepts. I am only in my first year and I have a lot to learn!
+I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning because we discussed in the workshop how AI could mean humans emotional bond with computers. I was glad the narrator described it as theoretical and "wild". While the YouTube video seemed to be aimed a children I think that simple videos are easier to learn new concepts. I am only in my first year and I have a lot to learn!
 
 ## Artefact 2: A News article I found this week
 
