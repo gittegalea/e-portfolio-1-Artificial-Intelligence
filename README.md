@@ -1,4 +1,4 @@
-Disclaimer: This is an example e-portfolio for students studying ICT Ethics and Governance in Society and is used for educational purposes only
+Disclaimer: This is an example e-portfolio for students studying COIT11223 ICT Ethics and Governance in Society and is used for educational purposes only
 
 # e-portfolio-1-Artificial-Intelligence
 A collection of artefacts that demonstrate what I have learnt about Artificial Intelligence this week
