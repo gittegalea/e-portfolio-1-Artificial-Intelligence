@@ -10,8 +10,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 ### Summary of the artefact
-This short YouTube video by Learn Bright explains Articial Intelligence in simple terms. It introduces 3 types of AI: Artifical Narrow Intelligence (ANI), Artifical General Intelligence (AGI and Artifical Super Intelligence (ASI). The video also discusses the pros and cons of AI in society.
-In my own words, artifical intelligence is computer technology that can appear human like. From the video, I will to my definition that AI involves computer systems, large amounts of data and problem solving.
+This short YouTube video by Learn Bright explains Articial Intelligence in simple terms. It introduces 3 types of AI: Artifical Narrow Intelligence (ANI), Artifical General Intelligence (AGI) and Artifical Super Intelligence (ASI). The video also discusses the pros and cons of AI in society. Before this video I defined artifical intelligence as computer technology that can appear human like. From the video, I learnt that the definition of AI involves computer systems, large amounts of data and problem solving. Furthermore, I learnt that there are different ways AI is defined and categorised such as the three types.
 
 ### Justification on why I chose the artefact
 I found this YouTube video easy to understand, it did not use a lot of technology jargon. I did not know about ANI and ASI, but I have heard about AGI. The idea of ASI is a bit concerning because we discussed in the workshop how AI could mean humans emotional bond with computers. I was glad the narrator described it as theoretical and "wild". While the YouTube video seemed to be aimed a children I think that simple videos are easier to learn new concepts. I am only in my first year and I have a lot to learn!
